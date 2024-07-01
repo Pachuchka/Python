@@ -78,7 +78,7 @@ def authentication(id):
 
     pin = str(input("Введите pin-code: "))
     if pin == clients_pins.get(id):
-        choice = int(input("Если вы хотите пополнить свой депозит, нажмите - 1, если вы хотите снять наличные, нажмите 2, завершить обслуживание - нажмите 3"))
+        choice = int(input("Если вы хотите пополнить свой депозит, нажмите - 1, если вы хотите снять наличные, нажмите 2, завершить обслуживание - нажмите 3: "))
         if choice == 1: replenishment(id)
         if choice == 2: withdrawal(id)
         if choice == 3: exit()
