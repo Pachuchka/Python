@@ -1,8 +1,6 @@
 from sys import argv
 import random
 
-__all__ = ['queens_attack_each_other','next_queen']
-
 BOARD_SIDE = 8
 NUM_SIDE = 2
 STEP = 1
@@ -81,7 +79,7 @@ def _choose_random_empty_square(chessboard):
     print(cell-(cell//BOARD_SIDE)*BOARD_SIDE)
     cells_under_attack(_chessboard, (cell//BOARD_SIDE)+STEP, (cell-(cell//BOARD_SIDE)*BOARD_SIDE))
 
-def next_queen():
+def _next_queen():
 
     choice = int(input("Выберите способ расстановки: 1 - ввести вручную, 2 - поставить случайным образом"))
     if choice == 1:
@@ -91,7 +89,7 @@ def next_queen():
         _choose_random_empty_square(_chessboard)
     else:
         return False
-    next_queen()
+    _next_queen()
 
 def close_cells(x, y):
         #Возвращает сет клеток под боем
@@ -126,8 +124,8 @@ def queens_attack_each_other(queen_positions):
 
 
 if __name__ == '__main__':
-    #next_queen() #  если упражняемся с расстановкой ферзей
-    #  C:\Study\Python\2 semester\6 seminar> python .\task_2.py "1,1 2,3 4,4" # если проверяем расстановку
+    #_next_queen()
+    #  C:\Study\Python\2 semester\6 seminar> python .\task_2.py "1,1 2,3 4,4"
     queen_positions = [tuple(map(int, pos.split(','))) for pos in argv[1].split()]
     print (len(queen_positions))
     queens_attack_each_other(queen_positions)
