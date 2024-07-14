@@ -1,0 +1,1808 @@
+[
+    {
+        "path": "C:\\Study\\Python\\.git",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 8073
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_1",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 1603
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_2",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 1295
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_3",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 1875
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_4",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 1181
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_5",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 265
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7",
+        "parent": "C:\\Study\\Python",
+        "type": "directory",
+        "size": 660
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\COMMIT_EDITMSG",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 33
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\config",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 327
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\description",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\FETCH_HEAD",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 95
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\HEAD",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 21
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\index",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 7371
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\ORIG_HEAD",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 41
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\packed-refs",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "file",
+        "size": 112
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "directory",
+        "size": 25827
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\info",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "directory",
+        "size": 240
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "directory",
+        "size": 1854
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs",
+        "parent": "C:\\Study\\Python\\.git",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\applypatch-msg.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 478
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\commit-msg.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 896
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\fsmonitor-watchman.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 4726
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\post-update.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 189
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-applypatch.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 424
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-commit.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 1649
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-merge-commit.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 416
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-push.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 1374
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-rebase.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 4898
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\pre-receive.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 544
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\prepare-commit-msg.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 1492
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\push-to-checkout.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 2783
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\sendemail-validate.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 2308
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\hooks\\update.sample",
+        "parent": "C:\\Study\\Python\\.git\\hooks",
+        "type": "file",
+        "size": 3650
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\info\\exclude",
+        "parent": "C:\\Study\\Python\\.git\\info",
+        "type": "file",
+        "size": 240
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\HEAD",
+        "parent": "C:\\Study\\Python\\.git\\logs",
+        "type": "file",
+        "size": 1854
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs",
+        "parent": "C:\\Study\\Python\\.git\\logs",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\heads",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs",
+        "type": "directory",
+        "size": 1688
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\remotes",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\heads\\main",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs\\heads",
+        "type": "file",
+        "size": 1688
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\remotes\\origin",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs\\remotes",
+        "type": "directory",
+        "size": 1507
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\remotes\\origin\\HEAD",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs\\remotes\\origin",
+        "type": "file",
+        "size": 193
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\logs\\refs\\remotes\\origin\\main",
+        "parent": "C:\\Study\\Python\\.git\\logs\\refs\\remotes\\origin",
+        "type": "file",
+        "size": 1314
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\00",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 629
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\01",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 156
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\02",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 256
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\05",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 2232
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\06",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 634
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\09",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\0b",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 376
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\0e",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\17",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 958
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\1e",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 153
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\1f",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 310
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\32",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 158
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\35",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 130
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\3c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\41",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\45",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 211
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\47",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 86
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\4c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 1448
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\4e",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 999
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\50",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 5653
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\51",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 77
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\57",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 95
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5a",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 1046
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 1067
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5d",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 109
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5f",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\60",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 944
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\61",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 1218
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\6d",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\75",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 187
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\79",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\7c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\7f",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 207
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\80",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 130
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\82",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\83",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 2792
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\87",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 189
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\8c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\8d",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 57
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\9a",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 68
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\9c",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 652
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a1",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 2327
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a5",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a7",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 522
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a8",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 164
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ac",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 190
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ad",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 379
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\af",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b4",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 201
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b8",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b9",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 94
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ba",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 69
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\c6",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\c9",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 363
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ca",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 148
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\cb",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ce",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 38431
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d2",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 95
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d3",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d4",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 281
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d8",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 57
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d9",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 238
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\dd",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\de",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 633
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e6",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 1103
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e7",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e9",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 773
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\eb",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 759
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f4",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 187
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f6",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 2489
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f7",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\fb",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 104
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\fc",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 55
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\info",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\pack",
+        "parent": "C:\\Study\\Python\\.git\\objects",
+        "type": "directory",
+        "size": 7827
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\00\\1e07b4ee849424beb9f547133de1929074a894",
+        "parent": "C:\\Study\\Python\\.git\\objects\\00",
+        "type": "file",
+        "size": 521
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\00\\f52fdc45020e7809387459950c674dd80e5c63",
+        "parent": "C:\\Study\\Python\\.git\\objects\\00",
+        "type": "file",
+        "size": 108
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\01\\f0d8e07f1c2e0acfa947bcc9d94ee9985d3892",
+        "parent": "C:\\Study\\Python\\.git\\objects\\01",
+        "type": "file",
+        "size": 156
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\02\\c7b753723cf97abe624214d195b7d016456cf1",
+        "parent": "C:\\Study\\Python\\.git\\objects\\02",
+        "type": "file",
+        "size": 140
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\02\\deb42f5fe63020a30a68a2c116313914df44e8",
+        "parent": "C:\\Study\\Python\\.git\\objects\\02",
+        "type": "file",
+        "size": 116
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\05\\4c0a514117bf694eaa07d4deac79a9a22694cc",
+        "parent": "C:\\Study\\Python\\.git\\objects\\05",
+        "type": "file",
+        "size": 2232
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\06\\0ddcb3598968bff2f1d792d1f0ddfe1d63253d",
+        "parent": "C:\\Study\\Python\\.git\\objects\\06",
+        "type": "file",
+        "size": 634
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\09\\57ad5224bbe189bca2f03952ae362000e8dd15",
+        "parent": "C:\\Study\\Python\\.git\\objects\\09",
+        "type": "file",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\0b\\42edafb89300735a0fafb5002b57a386f383f8",
+        "parent": "C:\\Study\\Python\\.git\\objects\\0b",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\0b\\736687574b416ec792cb5b6d37a0fae4d9dfc3",
+        "parent": "C:\\Study\\Python\\.git\\objects\\0b",
+        "type": "file",
+        "size": 164
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\0e\\c969cd37581cc17361630aca93b37c6506d5b1",
+        "parent": "C:\\Study\\Python\\.git\\objects\\0e",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\17\\a92f5de54768be058a5ef434734d0905987ea3",
+        "parent": "C:\\Study\\Python\\.git\\objects\\17",
+        "type": "file",
+        "size": 958
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\1e\\312b8c2e044bd2d62863968098ea8985c40537",
+        "parent": "C:\\Study\\Python\\.git\\objects\\1e",
+        "type": "file",
+        "size": 153
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\1f\\ec95945fb145c0a854ecd687c71aa1018f7d68",
+        "parent": "C:\\Study\\Python\\.git\\objects\\1f",
+        "type": "file",
+        "size": 310
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\32\\0b62e133d40d1dce3421f3175ae86d75e9614e",
+        "parent": "C:\\Study\\Python\\.git\\objects\\32",
+        "type": "file",
+        "size": 158
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\35\\e0c53d680afd17263062fc30f7f337e780ca9c",
+        "parent": "C:\\Study\\Python\\.git\\objects\\35",
+        "type": "file",
+        "size": 130
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\3c\\f10020cad1f8590187592ea6ae3dcb6d0bbe21",
+        "parent": "C:\\Study\\Python\\.git\\objects\\3c",
+        "type": "file",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\41\\e2f3fe04f6ce42178ce789ee4835f32c80dfaa",
+        "parent": "C:\\Study\\Python\\.git\\objects\\41",
+        "type": "file",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\45\\ce7d089d2b193471dcb2d0b24abdf3d0b336c2",
+        "parent": "C:\\Study\\Python\\.git\\objects\\45",
+        "type": "file",
+        "size": 211
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\47\\44f8f81234c4217a35c9fcd5a4c63f49b8df96",
+        "parent": "C:\\Study\\Python\\.git\\objects\\47",
+        "type": "file",
+        "size": 86
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\4c\\5de00f5b0f88eb5a3f738cd0b90546d55d2b5a",
+        "parent": "C:\\Study\\Python\\.git\\objects\\4c",
+        "type": "file",
+        "size": 1448
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\4e\\4c27dacc4ab2325c11c8a00901bdac8d806667",
+        "parent": "C:\\Study\\Python\\.git\\objects\\4e",
+        "type": "file",
+        "size": 942
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\4e\\766723f27c4e8d0b41229c9fa1d23ea5883d2c",
+        "parent": "C:\\Study\\Python\\.git\\objects\\4e",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\50\\1b62d2a5b457e97e07b72d68f5648213399a62",
+        "parent": "C:\\Study\\Python\\.git\\objects\\50",
+        "type": "file",
+        "size": 5653
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\51\\45902a66829b17bacbcf307a617cec8e389936",
+        "parent": "C:\\Study\\Python\\.git\\objects\\51",
+        "type": "file",
+        "size": 77
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\57\\cf8861e1addcca3b65fa31961ca04727d71f92",
+        "parent": "C:\\Study\\Python\\.git\\objects\\57",
+        "type": "file",
+        "size": 95
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5a\\6c6ee544d36c1aec238afa194bb58251d8405e",
+        "parent": "C:\\Study\\Python\\.git\\objects\\5a",
+        "type": "file",
+        "size": 1046
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5c\\d9eefdb5c44e4dab3abcb07bcc99ce33436857",
+        "parent": "C:\\Study\\Python\\.git\\objects\\5c",
+        "type": "file",
+        "size": 1067
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5d\\e15085b34f3b335bbc428d75dff8597f4b7db9",
+        "parent": "C:\\Study\\Python\\.git\\objects\\5d",
+        "type": "file",
+        "size": 109
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\5f\\cc4d55715a233f93a4ee47d1f9e9eb97d161a5",
+        "parent": "C:\\Study\\Python\\.git\\objects\\5f",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\60\\76d3d75be28423817e9b9dea0d4c975f432542",
+        "parent": "C:\\Study\\Python\\.git\\objects\\60",
+        "type": "file",
+        "size": 944
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\61\\e6d4d19e91a4da05896b662d30360dffbd317a",
+        "parent": "C:\\Study\\Python\\.git\\objects\\61",
+        "type": "file",
+        "size": 1218
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\6d\\4f8e0fee8c371e95af73cee7896a6ba16e1f52",
+        "parent": "C:\\Study\\Python\\.git\\objects\\6d",
+        "type": "file",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\75\\0e5e8cdf9f6f492b143ba10b43fde4cb15f536",
+        "parent": "C:\\Study\\Python\\.git\\objects\\75",
+        "type": "file",
+        "size": 187
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\79\\24a1f7195b20b06a07b87c98ec1969ca5509a3",
+        "parent": "C:\\Study\\Python\\.git\\objects\\79",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\7c\\05811fa877839afbe01a0585826c97292b1d4d",
+        "parent": "C:\\Study\\Python\\.git\\objects\\7c",
+        "type": "file",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\7f\\e8165235e00f41819a43b910adeb4e78317b1f",
+        "parent": "C:\\Study\\Python\\.git\\objects\\7f",
+        "type": "file",
+        "size": 207
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\80\\e3503f4ea269cd83e3e16e0ae66c13cb746be2",
+        "parent": "C:\\Study\\Python\\.git\\objects\\80",
+        "type": "file",
+        "size": 130
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\82\\f7761bea27c41e9c49ff41e2051d564bbcf32f",
+        "parent": "C:\\Study\\Python\\.git\\objects\\82",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\83\\2ef8f3f1623e175b92ea44476c0239e3506195",
+        "parent": "C:\\Study\\Python\\.git\\objects\\83",
+        "type": "file",
+        "size": 2154
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\83\\f7a8fc6fa0fb6bfae47306ee76dcc0fb60c565",
+        "parent": "C:\\Study\\Python\\.git\\objects\\83",
+        "type": "file",
+        "size": 638
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\87\\08046246b9f59be217bb735ce147f06f655bc3",
+        "parent": "C:\\Study\\Python\\.git\\objects\\87",
+        "type": "file",
+        "size": 189
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\8c\\8306fd4a11661a7aaa79367da6c25e58bb0dca",
+        "parent": "C:\\Study\\Python\\.git\\objects\\8c",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\8d\\8549ceb1f592767bfd10c77d2a19f3d8ba8330",
+        "parent": "C:\\Study\\Python\\.git\\objects\\8d",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\9a\\378b399ef9ba73c1aa1571aaba26c6f1adc071",
+        "parent": "C:\\Study\\Python\\.git\\objects\\9a",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\9c\\e6d2c7b2dce80a005bcff44947741ee2af2c83",
+        "parent": "C:\\Study\\Python\\.git\\objects\\9c",
+        "type": "file",
+        "size": 652
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a1\\42352871241d93573a35ea0af1f71200126902",
+        "parent": "C:\\Study\\Python\\.git\\objects\\a1",
+        "type": "file",
+        "size": 2276
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a1\\c0e326b32fe08b3651779ac9e143811f79f625",
+        "parent": "C:\\Study\\Python\\.git\\objects\\a1",
+        "type": "file",
+        "size": 51
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a5\\37c4f04623b19b912d99d0d8c2e6103bd7dca1",
+        "parent": "C:\\Study\\Python\\.git\\objects\\a5",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a7\\ddf5231f78e831d670040402bb47170e660e8a",
+        "parent": "C:\\Study\\Python\\.git\\objects\\a7",
+        "type": "file",
+        "size": 522
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\a8\\c31877cea5f267fd2d3c22ad4be24666622b86",
+        "parent": "C:\\Study\\Python\\.git\\objects\\a8",
+        "type": "file",
+        "size": 164
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ac\\f5ff105038d7df300a8e7602dfb351efce2e9b",
+        "parent": "C:\\Study\\Python\\.git\\objects\\ac",
+        "type": "file",
+        "size": 190
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ad\\754892f9149ccdfa4f133d9dd05b0f0d59fe80",
+        "parent": "C:\\Study\\Python\\.git\\objects\\ad",
+        "type": "file",
+        "size": 379
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\af\\f0d8034e111be3340295ef1b53fa2a0312058b",
+        "parent": "C:\\Study\\Python\\.git\\objects\\af",
+        "type": "file",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b4\\dfbc8fb30e7b92bfedd540578985704cde7977",
+        "parent": "C:\\Study\\Python\\.git\\objects\\b4",
+        "type": "file",
+        "size": 201
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b8\\4655ed4c609b3d0527d235ffddf916972ee700",
+        "parent": "C:\\Study\\Python\\.git\\objects\\b8",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\b9\\4761272969ac16dd2db63a3b14e276ea1bff77",
+        "parent": "C:\\Study\\Python\\.git\\objects\\b9",
+        "type": "file",
+        "size": 94
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ba\\719a9e46c7fd622272c6b4440108cc41c8bcf3",
+        "parent": "C:\\Study\\Python\\.git\\objects\\ba",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\c6\\47f2e4831c86197e9424432ff94e6157fc7937",
+        "parent": "C:\\Study\\Python\\.git\\objects\\c6",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\c9\\549158a4ffe2cb7fe50762bbdd2294f0f7c65f",
+        "parent": "C:\\Study\\Python\\.git\\objects\\c9",
+        "type": "file",
+        "size": 181
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\c9\\6a439e9dac05893588110fb199deb252f42ffd",
+        "parent": "C:\\Study\\Python\\.git\\objects\\c9",
+        "type": "file",
+        "size": 182
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ca\\7244db92920518d4999a8e812270d135b985d4",
+        "parent": "C:\\Study\\Python\\.git\\objects\\ca",
+        "type": "file",
+        "size": 148
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\cb\\46ac049d3d9643e58df7a8e136e71193099496",
+        "parent": "C:\\Study\\Python\\.git\\objects\\cb",
+        "type": "file",
+        "size": 185
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\ce\\a1f34ad6063640b457f278e0ba205b622a5805",
+        "parent": "C:\\Study\\Python\\.git\\objects\\ce",
+        "type": "file",
+        "size": 38431
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d2\\bbaeab338affb87522b651370537da7c47d6d9",
+        "parent": "C:\\Study\\Python\\.git\\objects\\d2",
+        "type": "file",
+        "size": 95
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d3\\2a591ffd63f4a152a91da086272c04c6b2c3bd",
+        "parent": "C:\\Study\\Python\\.git\\objects\\d3",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d4\\a78b335244fbd39fcbeee3429ad01cd4f9d9a1",
+        "parent": "C:\\Study\\Python\\.git\\objects\\d4",
+        "type": "file",
+        "size": 281
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d8\\41033c7f6e514512de35009734d5c81a407fdf",
+        "parent": "C:\\Study\\Python\\.git\\objects\\d8",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\d9\\d4b21673b2fbe32c36940ffd7d4e8e4696b700",
+        "parent": "C:\\Study\\Python\\.git\\objects\\d9",
+        "type": "file",
+        "size": 238
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\dd\\8b6b08c23fc7c191867e120ac124666b8e68ad",
+        "parent": "C:\\Study\\Python\\.git\\objects\\dd",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\de\\03384d8927ae484c58b63e9db9e02800c9d4ea",
+        "parent": "C:\\Study\\Python\\.git\\objects\\de",
+        "type": "file",
+        "size": 482
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\de\\61534b31efcb14ec985567d834555fe5958e09",
+        "parent": "C:\\Study\\Python\\.git\\objects\\de",
+        "type": "file",
+        "size": 151
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "parent": "C:\\Study\\Python\\.git\\objects\\e6",
+        "type": "file",
+        "size": 15
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e6\\db26542cfa28c645bb76769117a07568505ca7",
+        "parent": "C:\\Study\\Python\\.git\\objects\\e6",
+        "type": "file",
+        "size": 1088
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e7\\1aa31da594df40453df8bc4a538819a6d7fae6",
+        "parent": "C:\\Study\\Python\\.git\\objects\\e7",
+        "type": "file",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\e9\\439b0ce6186ce8d8fc5911993674b81c721e54",
+        "parent": "C:\\Study\\Python\\.git\\objects\\e9",
+        "type": "file",
+        "size": 773
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\eb\\34df5edf5924ffd70dc2ca6e579dcecada39db",
+        "parent": "C:\\Study\\Python\\.git\\objects\\eb",
+        "type": "file",
+        "size": 759
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f4\\9a75c63223b6f7e2f8e60600d6a290f398f9f1",
+        "parent": "C:\\Study\\Python\\.git\\objects\\f4",
+        "type": "file",
+        "size": 187
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f6\\60667efa5bf833763664fd282f6aaf51c00b10",
+        "parent": "C:\\Study\\Python\\.git\\objects\\f6",
+        "type": "file",
+        "size": 2277
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f6\\88ebafb9514e3bd37a4a9f9720b6b0adf85c95",
+        "parent": "C:\\Study\\Python\\.git\\objects\\f6",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\f7\\512069417387fd4b5caf9287202f90066838b7",
+        "parent": "C:\\Study\\Python\\.git\\objects\\f7",
+        "type": "file",
+        "size": 186
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\fb\\963c2e0e02251f947c9b369c5bab664b63b652",
+        "parent": "C:\\Study\\Python\\.git\\objects\\fb",
+        "type": "file",
+        "size": 104
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\fc\\4b5dddb4d7b4bccea8db2aaa55657f85ebc5fe",
+        "parent": "C:\\Study\\Python\\.git\\objects\\fc",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\pack\\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.idx",
+        "parent": "C:\\Study\\Python\\.git\\objects\\pack",
+        "type": "file",
+        "size": 2024
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\pack\\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.pack",
+        "parent": "C:\\Study\\Python\\.git\\objects\\pack",
+        "type": "file",
+        "size": 5615
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\objects\\pack\\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.rev",
+        "parent": "C:\\Study\\Python\\.git\\objects\\pack",
+        "type": "file",
+        "size": 188
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\heads",
+        "parent": "C:\\Study\\Python\\.git\\refs",
+        "type": "directory",
+        "size": 41
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\remotes",
+        "parent": "C:\\Study\\Python\\.git\\refs",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\tags",
+        "parent": "C:\\Study\\Python\\.git\\refs",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\heads\\main",
+        "parent": "C:\\Study\\Python\\.git\\refs\\heads",
+        "type": "file",
+        "size": 41
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\remotes\\origin",
+        "parent": "C:\\Study\\Python\\.git\\refs\\remotes",
+        "type": "directory",
+        "size": 71
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\remotes\\origin\\HEAD",
+        "parent": "C:\\Study\\Python\\.git\\refs\\remotes\\origin",
+        "type": "file",
+        "size": 30
+    },
+    {
+        "path": "C:\\Study\\Python\\.git\\refs\\remotes\\origin\\main",
+        "parent": "C:\\Study\\Python\\.git\\refs\\remotes\\origin",
+        "type": "file",
+        "size": 41
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\1 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 4303
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\2 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 3126
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\3 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 3102
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\4 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 5689
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\5 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 1798
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 8385
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 152
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam",
+        "parent": "C:\\Study\\Python\\2 semester",
+        "type": "directory",
+        "size": 3623
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\1 seminar\\task_1.py",
+        "parent": "C:\\Study\\Python\\2 semester\\1 seminar",
+        "type": "file",
+        "size": 2193
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\1 seminar\\task_2.py",
+        "parent": "C:\\Study\\Python\\2 semester\\1 seminar",
+        "type": "file",
+        "size": 941
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\1 seminar\\task_3.py",
+        "parent": "C:\\Study\\Python\\2 semester\\1 seminar",
+        "type": "file",
+        "size": 1169
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\2 seminar\\homework_2.py",
+        "parent": "C:\\Study\\Python\\2 semester\\2 seminar",
+        "type": "file",
+        "size": 3126
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\3 seminar\\homework_3.py",
+        "parent": "C:\\Study\\Python\\2 semester\\3 seminar",
+        "type": "file",
+        "size": 3102
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\4 seminar\\Homework 4.py",
+        "parent": "C:\\Study\\Python\\2 semester\\4 seminar",
+        "type": "file",
+        "size": 5689
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\5 seminar\\Homework 5.py",
+        "parent": "C:\\Study\\Python\\2 semester\\5 seminar",
+        "type": "file",
+        "size": 1798
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\task_1.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar",
+        "type": "file",
+        "size": 2125
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\task_2.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar",
+        "type": "file",
+        "size": 6172
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\test.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar",
+        "type": "file",
+        "size": 88
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar",
+        "type": "directory",
+        "size": 7980
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\check_date_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package",
+        "type": "file",
+        "size": 1583
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\chess_module.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package",
+        "type": "file",
+        "size": 6353
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__init__.py",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package",
+        "type": "file",
+        "size": 44
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__pycache__",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package",
+        "type": "directory",
+        "size": 1515
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__pycache__\\check_date_mod.cpython-312.pyc",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__pycache__",
+        "type": "file",
+        "size": 1298
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__pycache__\\__init__.cpython-312.pyc",
+        "parent": "C:\\Study\\Python\\2 semester\\6 seminar\\homework_package\\__pycache__",
+        "type": "file",
+        "size": 217
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\test.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar",
+        "type": "file",
+        "size": 152
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar",
+        "type": "directory",
+        "size": 58817
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar",
+        "type": "directory",
+        "size": 6115
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\pseudo_names.txt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole01.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole02.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole03.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole04.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole05.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole06.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole07.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole08.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\examples\\\u0444\u0430\u0439\u043b-fole09.odt",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia\\\u0412\u0438\u0434\u0435\u043e",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia\\\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia",
+        "type": "directory",
+        "size": 47592
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia\\\u041c\u0443\u0437\u044b\u043a\u0430",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia\\\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f\\e9f54006e5e80785056077c53c4d5a7a.jpg",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\multimedia\\\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f",
+        "type": "file",
+        "size": 47592
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\file_creator_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 723
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\group_rename_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 2394
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\multimedia_sort_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 1437
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\name_generatio_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 892
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\num_adder_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 560
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__init__.py",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "file",
+        "size": 109
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package",
+        "type": "directory",
+        "size": 3666
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__\\file_creator_mod.cpython-312.pyc",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__",
+        "type": "file",
+        "size": 1808
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__\\group_rename_mod.cpython-312.pyc",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__",
+        "type": "file",
+        "size": 1592
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__\\__init__.cpython-312.pyc",
+        "parent": "C:\\Study\\Python\\2 semester\\7 seminar\\Package\\__pycache__",
+        "type": "file",
+        "size": 266
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\directory_walk_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\exam",
+        "type": "file",
+        "size": 1437
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json_search_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\exam",
+        "type": "file",
+        "size": 514
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json_to_csv_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\exam",
+        "type": "file",
+        "size": 680
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\users_mod.py",
+        "parent": "C:\\Study\\Python\\2 semester\\exam",
+        "type": "file",
+        "size": 992
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json",
+        "parent": "C:\\Study\\Python\\2 semester\\exam",
+        "type": "directory",
+        "size": 470
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json\\user.json",
+        "parent": "C:\\Study\\Python\\2 semester\\exam\\json",
+        "type": "file",
+        "size": 156
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json\\user.pickle",
+        "parent": "C:\\Study\\Python\\2 semester\\exam\\json",
+        "type": "file",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json\\users.json",
+        "parent": "C:\\Study\\Python\\2 semester\\exam\\json",
+        "type": "file",
+        "size": 156
+    },
+    {
+        "path": "C:\\Study\\Python\\2 semester\\exam\\json\\users.pickle",
+        "parent": "C:\\Study\\Python\\2 semester\\exam\\json",
+        "type": "file",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_1\\task_2.py",
+        "parent": "C:\\Study\\Python\\lesson_1",
+        "type": "file",
+        "size": 159
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_1\\task_4.py",
+        "parent": "C:\\Study\\Python\\lesson_1",
+        "type": "file",
+        "size": 358
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_1\\task_6.py",
+        "parent": "C:\\Study\\Python\\lesson_1",
+        "type": "file",
+        "size": 479
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_1\\task_8.py",
+        "parent": "C:\\Study\\Python\\lesson_1",
+        "type": "file",
+        "size": 607
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_2\\task_10.py",
+        "parent": "C:\\Study\\Python\\lesson_2",
+        "type": "file",
+        "size": 666
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_2\\task_12.py",
+        "parent": "C:\\Study\\Python\\lesson_2",
+        "type": "file",
+        "size": 477
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_2\\task_14.py",
+        "parent": "C:\\Study\\Python\\lesson_2",
+        "type": "file",
+        "size": 152
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_3\\task_16.py",
+        "parent": "C:\\Study\\Python\\lesson_3",
+        "type": "file",
+        "size": 413
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_3\\task_18.py",
+        "parent": "C:\\Study\\Python\\lesson_3",
+        "type": "file",
+        "size": 486
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_3\\task_20.py",
+        "parent": "C:\\Study\\Python\\lesson_3",
+        "type": "file",
+        "size": 976
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_4\\task_22.py",
+        "parent": "C:\\Study\\Python\\lesson_4",
+        "type": "file",
+        "size": 620
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_4\\task_24.py",
+        "parent": "C:\\Study\\Python\\lesson_4",
+        "type": "file",
+        "size": 561
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_5\\task_26.py",
+        "parent": "C:\\Study\\Python\\lesson_5",
+        "type": "file",
+        "size": 136
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_5\\task_28.py",
+        "parent": "C:\\Study\\Python\\lesson_5",
+        "type": "file",
+        "size": 129
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\task_34.py",
+        "parent": "C:\\Study\\Python\\lesson_7",
+        "type": "file",
+        "size": 409
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\task_36.py",
+        "parent": "C:\\Study\\Python\\lesson_7",
+        "type": "file",
+        "size": 251
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples",
+        "parent": "C:\\Study\\Python\\lesson_7",
+        "type": "directory",
+        "size": 58817
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\pseudo_names.txt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 79
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole01.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole02.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole03.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole04.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole05.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole06.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole07.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole08.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    },
+    {
+        "path": "C:\\Study\\Python\\lesson_7\\examples\\\u0444\u0430\u0439\u043b-fole09.odt",
+        "parent": "C:\\Study\\Python\\lesson_7\\examples",
+        "type": "file",
+        "size": 7334
+    }
+]

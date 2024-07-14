@@ -1,0 +1,302 @@
+Path,Parent,Type,Size
+C:\Study\Python\.git,C:\Study\Python,directory,8073
+C:\Study\Python\2 semester,C:\Study\Python,directory,0
+C:\Study\Python\lesson_1,C:\Study\Python,directory,1603
+C:\Study\Python\lesson_2,C:\Study\Python,directory,1295
+C:\Study\Python\lesson_3,C:\Study\Python,directory,1875
+C:\Study\Python\lesson_4,C:\Study\Python,directory,1181
+C:\Study\Python\lesson_5,C:\Study\Python,directory,265
+C:\Study\Python\lesson_7,C:\Study\Python,directory,660
+C:\Study\Python\.git\COMMIT_EDITMSG,C:\Study\Python\.git,file,33
+C:\Study\Python\.git\config,C:\Study\Python\.git,file,327
+C:\Study\Python\.git\description,C:\Study\Python\.git,file,73
+C:\Study\Python\.git\FETCH_HEAD,C:\Study\Python\.git,file,95
+C:\Study\Python\.git\HEAD,C:\Study\Python\.git,file,21
+C:\Study\Python\.git\index,C:\Study\Python\.git,file,7371
+C:\Study\Python\.git\ORIG_HEAD,C:\Study\Python\.git,file,41
+C:\Study\Python\.git\packed-refs,C:\Study\Python\.git,file,112
+C:\Study\Python\.git\hooks,C:\Study\Python\.git,directory,25827
+C:\Study\Python\.git\info,C:\Study\Python\.git,directory,240
+C:\Study\Python\.git\logs,C:\Study\Python\.git,directory,1854
+C:\Study\Python\.git\objects,C:\Study\Python\.git,directory,0
+C:\Study\Python\.git\refs,C:\Study\Python\.git,directory,0
+C:\Study\Python\.git\hooks\applypatch-msg.sample,C:\Study\Python\.git\hooks,file,478
+C:\Study\Python\.git\hooks\commit-msg.sample,C:\Study\Python\.git\hooks,file,896
+C:\Study\Python\.git\hooks\fsmonitor-watchman.sample,C:\Study\Python\.git\hooks,file,4726
+C:\Study\Python\.git\hooks\post-update.sample,C:\Study\Python\.git\hooks,file,189
+C:\Study\Python\.git\hooks\pre-applypatch.sample,C:\Study\Python\.git\hooks,file,424
+C:\Study\Python\.git\hooks\pre-commit.sample,C:\Study\Python\.git\hooks,file,1649
+C:\Study\Python\.git\hooks\pre-merge-commit.sample,C:\Study\Python\.git\hooks,file,416
+C:\Study\Python\.git\hooks\pre-push.sample,C:\Study\Python\.git\hooks,file,1374
+C:\Study\Python\.git\hooks\pre-rebase.sample,C:\Study\Python\.git\hooks,file,4898
+C:\Study\Python\.git\hooks\pre-receive.sample,C:\Study\Python\.git\hooks,file,544
+C:\Study\Python\.git\hooks\prepare-commit-msg.sample,C:\Study\Python\.git\hooks,file,1492
+C:\Study\Python\.git\hooks\push-to-checkout.sample,C:\Study\Python\.git\hooks,file,2783
+C:\Study\Python\.git\hooks\sendemail-validate.sample,C:\Study\Python\.git\hooks,file,2308
+C:\Study\Python\.git\hooks\update.sample,C:\Study\Python\.git\hooks,file,3650
+C:\Study\Python\.git\info\exclude,C:\Study\Python\.git\info,file,240
+C:\Study\Python\.git\logs\HEAD,C:\Study\Python\.git\logs,file,1854
+C:\Study\Python\.git\logs\refs,C:\Study\Python\.git\logs,directory,0
+C:\Study\Python\.git\logs\refs\heads,C:\Study\Python\.git\logs\refs,directory,1688
+C:\Study\Python\.git\logs\refs\remotes,C:\Study\Python\.git\logs\refs,directory,0
+C:\Study\Python\.git\logs\refs\heads\main,C:\Study\Python\.git\logs\refs\heads,file,1688
+C:\Study\Python\.git\logs\refs\remotes\origin,C:\Study\Python\.git\logs\refs\remotes,directory,1507
+C:\Study\Python\.git\logs\refs\remotes\origin\HEAD,C:\Study\Python\.git\logs\refs\remotes\origin,file,193
+C:\Study\Python\.git\logs\refs\remotes\origin\main,C:\Study\Python\.git\logs\refs\remotes\origin,file,1314
+C:\Study\Python\.git\objects\00,C:\Study\Python\.git\objects,directory,629
+C:\Study\Python\.git\objects\01,C:\Study\Python\.git\objects,directory,156
+C:\Study\Python\.git\objects\02,C:\Study\Python\.git\objects,directory,256
+C:\Study\Python\.git\objects\05,C:\Study\Python\.git\objects,directory,2232
+C:\Study\Python\.git\objects\06,C:\Study\Python\.git\objects,directory,634
+C:\Study\Python\.git\objects\09,C:\Study\Python\.git\objects,directory,185
+C:\Study\Python\.git\objects\0b,C:\Study\Python\.git\objects,directory,376
+C:\Study\Python\.git\objects\0e,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\17,C:\Study\Python\.git\objects,directory,958
+C:\Study\Python\.git\objects\1e,C:\Study\Python\.git\objects,directory,153
+C:\Study\Python\.git\objects\1f,C:\Study\Python\.git\objects,directory,310
+C:\Study\Python\.git\objects\32,C:\Study\Python\.git\objects,directory,158
+C:\Study\Python\.git\objects\35,C:\Study\Python\.git\objects,directory,130
+C:\Study\Python\.git\objects\3c,C:\Study\Python\.git\objects,directory,185
+C:\Study\Python\.git\objects\41,C:\Study\Python\.git\objects,directory,186
+C:\Study\Python\.git\objects\45,C:\Study\Python\.git\objects,directory,211
+C:\Study\Python\.git\objects\47,C:\Study\Python\.git\objects,directory,86
+C:\Study\Python\.git\objects\4c,C:\Study\Python\.git\objects,directory,1448
+C:\Study\Python\.git\objects\4e,C:\Study\Python\.git\objects,directory,999
+C:\Study\Python\.git\objects\50,C:\Study\Python\.git\objects,directory,5653
+C:\Study\Python\.git\objects\51,C:\Study\Python\.git\objects,directory,77
+C:\Study\Python\.git\objects\57,C:\Study\Python\.git\objects,directory,95
+C:\Study\Python\.git\objects\5a,C:\Study\Python\.git\objects,directory,1046
+C:\Study\Python\.git\objects\5c,C:\Study\Python\.git\objects,directory,1067
+C:\Study\Python\.git\objects\5d,C:\Study\Python\.git\objects,directory,109
+C:\Study\Python\.git\objects\5f,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\60,C:\Study\Python\.git\objects,directory,944
+C:\Study\Python\.git\objects\61,C:\Study\Python\.git\objects,directory,1218
+C:\Study\Python\.git\objects\6d,C:\Study\Python\.git\objects,directory,186
+C:\Study\Python\.git\objects\75,C:\Study\Python\.git\objects,directory,187
+C:\Study\Python\.git\objects\79,C:\Study\Python\.git\objects,directory,58
+C:\Study\Python\.git\objects\7c,C:\Study\Python\.git\objects,directory,185
+C:\Study\Python\.git\objects\7f,C:\Study\Python\.git\objects,directory,207
+C:\Study\Python\.git\objects\80,C:\Study\Python\.git\objects,directory,130
+C:\Study\Python\.git\objects\82,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\83,C:\Study\Python\.git\objects,directory,2792
+C:\Study\Python\.git\objects\87,C:\Study\Python\.git\objects,directory,189
+C:\Study\Python\.git\objects\8c,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\8d,C:\Study\Python\.git\objects,directory,57
+C:\Study\Python\.git\objects\9a,C:\Study\Python\.git\objects,directory,68
+C:\Study\Python\.git\objects\9c,C:\Study\Python\.git\objects,directory,652
+C:\Study\Python\.git\objects\a1,C:\Study\Python\.git\objects,directory,2327
+C:\Study\Python\.git\objects\a5,C:\Study\Python\.git\objects,directory,58
+C:\Study\Python\.git\objects\a7,C:\Study\Python\.git\objects,directory,522
+C:\Study\Python\.git\objects\a8,C:\Study\Python\.git\objects,directory,164
+C:\Study\Python\.git\objects\ac,C:\Study\Python\.git\objects,directory,190
+C:\Study\Python\.git\objects\ad,C:\Study\Python\.git\objects,directory,379
+C:\Study\Python\.git\objects\af,C:\Study\Python\.git\objects,directory,79
+C:\Study\Python\.git\objects\b4,C:\Study\Python\.git\objects,directory,201
+C:\Study\Python\.git\objects\b8,C:\Study\Python\.git\objects,directory,58
+C:\Study\Python\.git\objects\b9,C:\Study\Python\.git\objects,directory,94
+C:\Study\Python\.git\objects\ba,C:\Study\Python\.git\objects,directory,69
+C:\Study\Python\.git\objects\c6,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\c9,C:\Study\Python\.git\objects,directory,363
+C:\Study\Python\.git\objects\ca,C:\Study\Python\.git\objects,directory,148
+C:\Study\Python\.git\objects\cb,C:\Study\Python\.git\objects,directory,185
+C:\Study\Python\.git\objects\ce,C:\Study\Python\.git\objects,directory,38431
+C:\Study\Python\.git\objects\d2,C:\Study\Python\.git\objects,directory,95
+C:\Study\Python\.git\objects\d3,C:\Study\Python\.git\objects,directory,58
+C:\Study\Python\.git\objects\d4,C:\Study\Python\.git\objects,directory,281
+C:\Study\Python\.git\objects\d8,C:\Study\Python\.git\objects,directory,57
+C:\Study\Python\.git\objects\d9,C:\Study\Python\.git\objects,directory,238
+C:\Study\Python\.git\objects\dd,C:\Study\Python\.git\objects,directory,212
+C:\Study\Python\.git\objects\de,C:\Study\Python\.git\objects,directory,633
+C:\Study\Python\.git\objects\e6,C:\Study\Python\.git\objects,directory,1103
+C:\Study\Python\.git\objects\e7,C:\Study\Python\.git\objects,directory,186
+C:\Study\Python\.git\objects\e9,C:\Study\Python\.git\objects,directory,773
+C:\Study\Python\.git\objects\eb,C:\Study\Python\.git\objects,directory,759
+C:\Study\Python\.git\objects\f4,C:\Study\Python\.git\objects,directory,187
+C:\Study\Python\.git\objects\f6,C:\Study\Python\.git\objects,directory,2489
+C:\Study\Python\.git\objects\f7,C:\Study\Python\.git\objects,directory,186
+C:\Study\Python\.git\objects\fb,C:\Study\Python\.git\objects,directory,104
+C:\Study\Python\.git\objects\fc,C:\Study\Python\.git\objects,directory,55
+C:\Study\Python\.git\objects\info,C:\Study\Python\.git\objects,directory,0
+C:\Study\Python\.git\objects\pack,C:\Study\Python\.git\objects,directory,7827
+C:\Study\Python\.git\objects\00\1e07b4ee849424beb9f547133de1929074a894,C:\Study\Python\.git\objects\00,file,521
+C:\Study\Python\.git\objects\00\f52fdc45020e7809387459950c674dd80e5c63,C:\Study\Python\.git\objects\00,file,108
+C:\Study\Python\.git\objects\01\f0d8e07f1c2e0acfa947bcc9d94ee9985d3892,C:\Study\Python\.git\objects\01,file,156
+C:\Study\Python\.git\objects\02\c7b753723cf97abe624214d195b7d016456cf1,C:\Study\Python\.git\objects\02,file,140
+C:\Study\Python\.git\objects\02\deb42f5fe63020a30a68a2c116313914df44e8,C:\Study\Python\.git\objects\02,file,116
+C:\Study\Python\.git\objects\05\4c0a514117bf694eaa07d4deac79a9a22694cc,C:\Study\Python\.git\objects\05,file,2232
+C:\Study\Python\.git\objects\06\0ddcb3598968bff2f1d792d1f0ddfe1d63253d,C:\Study\Python\.git\objects\06,file,634
+C:\Study\Python\.git\objects\09\57ad5224bbe189bca2f03952ae362000e8dd15,C:\Study\Python\.git\objects\09,file,185
+C:\Study\Python\.git\objects\0b\42edafb89300735a0fafb5002b57a386f383f8,C:\Study\Python\.git\objects\0b,file,212
+C:\Study\Python\.git\objects\0b\736687574b416ec792cb5b6d37a0fae4d9dfc3,C:\Study\Python\.git\objects\0b,file,164
+C:\Study\Python\.git\objects\0e\c969cd37581cc17361630aca93b37c6506d5b1,C:\Study\Python\.git\objects\0e,file,212
+C:\Study\Python\.git\objects\17\a92f5de54768be058a5ef434734d0905987ea3,C:\Study\Python\.git\objects\17,file,958
+C:\Study\Python\.git\objects\1e\312b8c2e044bd2d62863968098ea8985c40537,C:\Study\Python\.git\objects\1e,file,153
+C:\Study\Python\.git\objects\1f\ec95945fb145c0a854ecd687c71aa1018f7d68,C:\Study\Python\.git\objects\1f,file,310
+C:\Study\Python\.git\objects\32\0b62e133d40d1dce3421f3175ae86d75e9614e,C:\Study\Python\.git\objects\32,file,158
+C:\Study\Python\.git\objects\35\e0c53d680afd17263062fc30f7f337e780ca9c,C:\Study\Python\.git\objects\35,file,130
+C:\Study\Python\.git\objects\3c\f10020cad1f8590187592ea6ae3dcb6d0bbe21,C:\Study\Python\.git\objects\3c,file,185
+C:\Study\Python\.git\objects\41\e2f3fe04f6ce42178ce789ee4835f32c80dfaa,C:\Study\Python\.git\objects\41,file,186
+C:\Study\Python\.git\objects\45\ce7d089d2b193471dcb2d0b24abdf3d0b336c2,C:\Study\Python\.git\objects\45,file,211
+C:\Study\Python\.git\objects\47\44f8f81234c4217a35c9fcd5a4c63f49b8df96,C:\Study\Python\.git\objects\47,file,86
+C:\Study\Python\.git\objects\4c\5de00f5b0f88eb5a3f738cd0b90546d55d2b5a,C:\Study\Python\.git\objects\4c,file,1448
+C:\Study\Python\.git\objects\4e\4c27dacc4ab2325c11c8a00901bdac8d806667,C:\Study\Python\.git\objects\4e,file,942
+C:\Study\Python\.git\objects\4e\766723f27c4e8d0b41229c9fa1d23ea5883d2c,C:\Study\Python\.git\objects\4e,file,57
+C:\Study\Python\.git\objects\50\1b62d2a5b457e97e07b72d68f5648213399a62,C:\Study\Python\.git\objects\50,file,5653
+C:\Study\Python\.git\objects\51\45902a66829b17bacbcf307a617cec8e389936,C:\Study\Python\.git\objects\51,file,77
+C:\Study\Python\.git\objects\57\cf8861e1addcca3b65fa31961ca04727d71f92,C:\Study\Python\.git\objects\57,file,95
+C:\Study\Python\.git\objects\5a\6c6ee544d36c1aec238afa194bb58251d8405e,C:\Study\Python\.git\objects\5a,file,1046
+C:\Study\Python\.git\objects\5c\d9eefdb5c44e4dab3abcb07bcc99ce33436857,C:\Study\Python\.git\objects\5c,file,1067
+C:\Study\Python\.git\objects\5d\e15085b34f3b335bbc428d75dff8597f4b7db9,C:\Study\Python\.git\objects\5d,file,109
+C:\Study\Python\.git\objects\5f\cc4d55715a233f93a4ee47d1f9e9eb97d161a5,C:\Study\Python\.git\objects\5f,file,212
+C:\Study\Python\.git\objects\60\76d3d75be28423817e9b9dea0d4c975f432542,C:\Study\Python\.git\objects\60,file,944
+C:\Study\Python\.git\objects\61\e6d4d19e91a4da05896b662d30360dffbd317a,C:\Study\Python\.git\objects\61,file,1218
+C:\Study\Python\.git\objects\6d\4f8e0fee8c371e95af73cee7896a6ba16e1f52,C:\Study\Python\.git\objects\6d,file,186
+C:\Study\Python\.git\objects\75\0e5e8cdf9f6f492b143ba10b43fde4cb15f536,C:\Study\Python\.git\objects\75,file,187
+C:\Study\Python\.git\objects\79\24a1f7195b20b06a07b87c98ec1969ca5509a3,C:\Study\Python\.git\objects\79,file,58
+C:\Study\Python\.git\objects\7c\05811fa877839afbe01a0585826c97292b1d4d,C:\Study\Python\.git\objects\7c,file,185
+C:\Study\Python\.git\objects\7f\e8165235e00f41819a43b910adeb4e78317b1f,C:\Study\Python\.git\objects\7f,file,207
+C:\Study\Python\.git\objects\80\e3503f4ea269cd83e3e16e0ae66c13cb746be2,C:\Study\Python\.git\objects\80,file,130
+C:\Study\Python\.git\objects\82\f7761bea27c41e9c49ff41e2051d564bbcf32f,C:\Study\Python\.git\objects\82,file,212
+C:\Study\Python\.git\objects\83\2ef8f3f1623e175b92ea44476c0239e3506195,C:\Study\Python\.git\objects\83,file,2154
+C:\Study\Python\.git\objects\83\f7a8fc6fa0fb6bfae47306ee76dcc0fb60c565,C:\Study\Python\.git\objects\83,file,638
+C:\Study\Python\.git\objects\87\08046246b9f59be217bb735ce147f06f655bc3,C:\Study\Python\.git\objects\87,file,189
+C:\Study\Python\.git\objects\8c\8306fd4a11661a7aaa79367da6c25e58bb0dca,C:\Study\Python\.git\objects\8c,file,212
+C:\Study\Python\.git\objects\8d\8549ceb1f592767bfd10c77d2a19f3d8ba8330,C:\Study\Python\.git\objects\8d,file,57
+C:\Study\Python\.git\objects\9a\378b399ef9ba73c1aa1571aaba26c6f1adc071,C:\Study\Python\.git\objects\9a,file,68
+C:\Study\Python\.git\objects\9c\e6d2c7b2dce80a005bcff44947741ee2af2c83,C:\Study\Python\.git\objects\9c,file,652
+C:\Study\Python\.git\objects\a1\42352871241d93573a35ea0af1f71200126902,C:\Study\Python\.git\objects\a1,file,2276
+C:\Study\Python\.git\objects\a1\c0e326b32fe08b3651779ac9e143811f79f625,C:\Study\Python\.git\objects\a1,file,51
+C:\Study\Python\.git\objects\a5\37c4f04623b19b912d99d0d8c2e6103bd7dca1,C:\Study\Python\.git\objects\a5,file,58
+C:\Study\Python\.git\objects\a7\ddf5231f78e831d670040402bb47170e660e8a,C:\Study\Python\.git\objects\a7,file,522
+C:\Study\Python\.git\objects\a8\c31877cea5f267fd2d3c22ad4be24666622b86,C:\Study\Python\.git\objects\a8,file,164
+C:\Study\Python\.git\objects\ac\f5ff105038d7df300a8e7602dfb351efce2e9b,C:\Study\Python\.git\objects\ac,file,190
+C:\Study\Python\.git\objects\ad\754892f9149ccdfa4f133d9dd05b0f0d59fe80,C:\Study\Python\.git\objects\ad,file,379
+C:\Study\Python\.git\objects\af\f0d8034e111be3340295ef1b53fa2a0312058b,C:\Study\Python\.git\objects\af,file,79
+C:\Study\Python\.git\objects\b4\dfbc8fb30e7b92bfedd540578985704cde7977,C:\Study\Python\.git\objects\b4,file,201
+C:\Study\Python\.git\objects\b8\4655ed4c609b3d0527d235ffddf916972ee700,C:\Study\Python\.git\objects\b8,file,58
+C:\Study\Python\.git\objects\b9\4761272969ac16dd2db63a3b14e276ea1bff77,C:\Study\Python\.git\objects\b9,file,94
+C:\Study\Python\.git\objects\ba\719a9e46c7fd622272c6b4440108cc41c8bcf3,C:\Study\Python\.git\objects\ba,file,69
+C:\Study\Python\.git\objects\c6\47f2e4831c86197e9424432ff94e6157fc7937,C:\Study\Python\.git\objects\c6,file,212
+C:\Study\Python\.git\objects\c9\549158a4ffe2cb7fe50762bbdd2294f0f7c65f,C:\Study\Python\.git\objects\c9,file,181
+C:\Study\Python\.git\objects\c9\6a439e9dac05893588110fb199deb252f42ffd,C:\Study\Python\.git\objects\c9,file,182
+C:\Study\Python\.git\objects\ca\7244db92920518d4999a8e812270d135b985d4,C:\Study\Python\.git\objects\ca,file,148
+C:\Study\Python\.git\objects\cb\46ac049d3d9643e58df7a8e136e71193099496,C:\Study\Python\.git\objects\cb,file,185
+C:\Study\Python\.git\objects\ce\a1f34ad6063640b457f278e0ba205b622a5805,C:\Study\Python\.git\objects\ce,file,38431
+C:\Study\Python\.git\objects\d2\bbaeab338affb87522b651370537da7c47d6d9,C:\Study\Python\.git\objects\d2,file,95
+C:\Study\Python\.git\objects\d3\2a591ffd63f4a152a91da086272c04c6b2c3bd,C:\Study\Python\.git\objects\d3,file,58
+C:\Study\Python\.git\objects\d4\a78b335244fbd39fcbeee3429ad01cd4f9d9a1,C:\Study\Python\.git\objects\d4,file,281
+C:\Study\Python\.git\objects\d8\41033c7f6e514512de35009734d5c81a407fdf,C:\Study\Python\.git\objects\d8,file,57
+C:\Study\Python\.git\objects\d9\d4b21673b2fbe32c36940ffd7d4e8e4696b700,C:\Study\Python\.git\objects\d9,file,238
+C:\Study\Python\.git\objects\dd\8b6b08c23fc7c191867e120ac124666b8e68ad,C:\Study\Python\.git\objects\dd,file,212
+C:\Study\Python\.git\objects\de\03384d8927ae484c58b63e9db9e02800c9d4ea,C:\Study\Python\.git\objects\de,file,482
+C:\Study\Python\.git\objects\de\61534b31efcb14ec985567d834555fe5958e09,C:\Study\Python\.git\objects\de,file,151
+C:\Study\Python\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391,C:\Study\Python\.git\objects\e6,file,15
+C:\Study\Python\.git\objects\e6\db26542cfa28c645bb76769117a07568505ca7,C:\Study\Python\.git\objects\e6,file,1088
+C:\Study\Python\.git\objects\e7\1aa31da594df40453df8bc4a538819a6d7fae6,C:\Study\Python\.git\objects\e7,file,186
+C:\Study\Python\.git\objects\e9\439b0ce6186ce8d8fc5911993674b81c721e54,C:\Study\Python\.git\objects\e9,file,773
+C:\Study\Python\.git\objects\eb\34df5edf5924ffd70dc2ca6e579dcecada39db,C:\Study\Python\.git\objects\eb,file,759
+C:\Study\Python\.git\objects\f4\9a75c63223b6f7e2f8e60600d6a290f398f9f1,C:\Study\Python\.git\objects\f4,file,187
+C:\Study\Python\.git\objects\f6\60667efa5bf833763664fd282f6aaf51c00b10,C:\Study\Python\.git\objects\f6,file,2277
+C:\Study\Python\.git\objects\f6\88ebafb9514e3bd37a4a9f9720b6b0adf85c95,C:\Study\Python\.git\objects\f6,file,212
+C:\Study\Python\.git\objects\f7\512069417387fd4b5caf9287202f90066838b7,C:\Study\Python\.git\objects\f7,file,186
+C:\Study\Python\.git\objects\fb\963c2e0e02251f947c9b369c5bab664b63b652,C:\Study\Python\.git\objects\fb,file,104
+C:\Study\Python\.git\objects\fc\4b5dddb4d7b4bccea8db2aaa55657f85ebc5fe,C:\Study\Python\.git\objects\fc,file,55
+C:\Study\Python\.git\objects\pack\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.idx,C:\Study\Python\.git\objects\pack,file,2024
+C:\Study\Python\.git\objects\pack\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.pack,C:\Study\Python\.git\objects\pack,file,5615
+C:\Study\Python\.git\objects\pack\pack-2d526dddb1b3f29486ba009094eed792093bbcb1.rev,C:\Study\Python\.git\objects\pack,file,188
+C:\Study\Python\.git\refs\heads,C:\Study\Python\.git\refs,directory,41
+C:\Study\Python\.git\refs\remotes,C:\Study\Python\.git\refs,directory,0
+C:\Study\Python\.git\refs\tags,C:\Study\Python\.git\refs,directory,0
+C:\Study\Python\.git\refs\heads\main,C:\Study\Python\.git\refs\heads,file,41
+C:\Study\Python\.git\refs\remotes\origin,C:\Study\Python\.git\refs\remotes,directory,71
+C:\Study\Python\.git\refs\remotes\origin\HEAD,C:\Study\Python\.git\refs\remotes\origin,file,30
+C:\Study\Python\.git\refs\remotes\origin\main,C:\Study\Python\.git\refs\remotes\origin,file,41
+C:\Study\Python\2 semester\1 seminar,C:\Study\Python\2 semester,directory,4303
+C:\Study\Python\2 semester\2 seminar,C:\Study\Python\2 semester,directory,3126
+C:\Study\Python\2 semester\3 seminar,C:\Study\Python\2 semester,directory,3102
+C:\Study\Python\2 semester\4 seminar,C:\Study\Python\2 semester,directory,5689
+C:\Study\Python\2 semester\5 seminar,C:\Study\Python\2 semester,directory,1798
+C:\Study\Python\2 semester\6 seminar,C:\Study\Python\2 semester,directory,8385
+C:\Study\Python\2 semester\7 seminar,C:\Study\Python\2 semester,directory,152
+C:\Study\Python\2 semester\exam,C:\Study\Python\2 semester,directory,3623
+C:\Study\Python\2 semester\1 seminar\task_1.py,C:\Study\Python\2 semester\1 seminar,file,2193
+C:\Study\Python\2 semester\1 seminar\task_2.py,C:\Study\Python\2 semester\1 seminar,file,941
+C:\Study\Python\2 semester\1 seminar\task_3.py,C:\Study\Python\2 semester\1 seminar,file,1169
+C:\Study\Python\2 semester\2 seminar\homework_2.py,C:\Study\Python\2 semester\2 seminar,file,3126
+C:\Study\Python\2 semester\3 seminar\homework_3.py,C:\Study\Python\2 semester\3 seminar,file,3102
+C:\Study\Python\2 semester\4 seminar\Homework 4.py,C:\Study\Python\2 semester\4 seminar,file,5689
+C:\Study\Python\2 semester\5 seminar\Homework 5.py,C:\Study\Python\2 semester\5 seminar,file,1798
+C:\Study\Python\2 semester\6 seminar\task_1.py,C:\Study\Python\2 semester\6 seminar,file,2125
+C:\Study\Python\2 semester\6 seminar\task_2.py,C:\Study\Python\2 semester\6 seminar,file,6172
+C:\Study\Python\2 semester\6 seminar\test.py,C:\Study\Python\2 semester\6 seminar,file,88
+C:\Study\Python\2 semester\6 seminar\homework_package,C:\Study\Python\2 semester\6 seminar,directory,7980
+C:\Study\Python\2 semester\6 seminar\homework_package\check_date_mod.py,C:\Study\Python\2 semester\6 seminar\homework_package,file,1583
+C:\Study\Python\2 semester\6 seminar\homework_package\chess_module.py,C:\Study\Python\2 semester\6 seminar\homework_package,file,6353
+C:\Study\Python\2 semester\6 seminar\homework_package\__init__.py,C:\Study\Python\2 semester\6 seminar\homework_package,file,44
+C:\Study\Python\2 semester\6 seminar\homework_package\__pycache__,C:\Study\Python\2 semester\6 seminar\homework_package,directory,1515
+C:\Study\Python\2 semester\6 seminar\homework_package\__pycache__\check_date_mod.cpython-312.pyc,C:\Study\Python\2 semester\6 seminar\homework_package\__pycache__,file,1298
+C:\Study\Python\2 semester\6 seminar\homework_package\__pycache__\__init__.cpython-312.pyc,C:\Study\Python\2 semester\6 seminar\homework_package\__pycache__,file,217
+C:\Study\Python\2 semester\7 seminar\test.py,C:\Study\Python\2 semester\7 seminar,file,152
+C:\Study\Python\2 semester\7 seminar\examples,C:\Study\Python\2 semester\7 seminar,directory,58817
+C:\Study\Python\2 semester\7 seminar\multimedia,C:\Study\Python\2 semester\7 seminar,directory,0
+C:\Study\Python\2 semester\7 seminar\Package,C:\Study\Python\2 semester\7 seminar,directory,6115
+C:\Study\Python\2 semester\7 seminar\examples\pseudo_names.txt,C:\Study\Python\2 semester\7 seminar\examples,file,79
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole01.odt,C:\Study\Python\2 semester\7 seminar\examples,file,66
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole02.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole03.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole04.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole05.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole06.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole07.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole08.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\examples\פאיכ-fole09.odt,C:\Study\Python\2 semester\7 seminar\examples,file,7334
+C:\Study\Python\2 semester\7 seminar\multimedia\Âטהומ,C:\Study\Python\2 semester\7 seminar\multimedia,directory,0
+C:\Study\Python\2 semester\7 seminar\multimedia\Èחמבנאזוםטÿ,C:\Study\Python\2 semester\7 seminar\multimedia,directory,47592
+C:\Study\Python\2 semester\7 seminar\multimedia\Ìףחûךא,C:\Study\Python\2 semester\7 seminar\multimedia,directory,0
+C:\Study\Python\2 semester\7 seminar\multimedia\Èחמבנאזוםטÿ\e9f54006e5e80785056077c53c4d5a7a.jpg,C:\Study\Python\2 semester\7 seminar\multimedia\Èחמבנאזוםטÿ,file,47592
+C:\Study\Python\2 semester\7 seminar\Package\file_creator_mod.py,C:\Study\Python\2 semester\7 seminar\Package,file,723
+C:\Study\Python\2 semester\7 seminar\Package\group_rename_mod.py,C:\Study\Python\2 semester\7 seminar\Package,file,2394
+C:\Study\Python\2 semester\7 seminar\Package\multimedia_sort_mod.py,C:\Study\Python\2 semester\7 seminar\Package,file,1437
+C:\Study\Python\2 semester\7 seminar\Package\name_generatio_mod.py,C:\Study\Python\2 semester\7 seminar\Package,file,892
+C:\Study\Python\2 semester\7 seminar\Package\num_adder_mod.py,C:\Study\Python\2 semester\7 seminar\Package,file,560
+C:\Study\Python\2 semester\7 seminar\Package\__init__.py,C:\Study\Python\2 semester\7 seminar\Package,file,109
+C:\Study\Python\2 semester\7 seminar\Package\__pycache__,C:\Study\Python\2 semester\7 seminar\Package,directory,3666
+C:\Study\Python\2 semester\7 seminar\Package\__pycache__\file_creator_mod.cpython-312.pyc,C:\Study\Python\2 semester\7 seminar\Package\__pycache__,file,1808
+C:\Study\Python\2 semester\7 seminar\Package\__pycache__\group_rename_mod.cpython-312.pyc,C:\Study\Python\2 semester\7 seminar\Package\__pycache__,file,1592
+C:\Study\Python\2 semester\7 seminar\Package\__pycache__\__init__.cpython-312.pyc,C:\Study\Python\2 semester\7 seminar\Package\__pycache__,file,266
+C:\Study\Python\2 semester\exam\directory_walk_mod.py,C:\Study\Python\2 semester\exam,file,1437
+C:\Study\Python\2 semester\exam\json_search_mod.py,C:\Study\Python\2 semester\exam,file,514
+C:\Study\Python\2 semester\exam\json_to_csv_mod.py,C:\Study\Python\2 semester\exam,file,680
+C:\Study\Python\2 semester\exam\users_mod.py,C:\Study\Python\2 semester\exam,file,992
+C:\Study\Python\2 semester\exam\json,C:\Study\Python\2 semester\exam,directory,470
+C:\Study\Python\2 semester\exam\json\user.json,C:\Study\Python\2 semester\exam\json,file,156
+C:\Study\Python\2 semester\exam\json\user.pickle,C:\Study\Python\2 semester\exam\json,file,79
+C:\Study\Python\2 semester\exam\json\users.json,C:\Study\Python\2 semester\exam\json,file,156
+C:\Study\Python\2 semester\exam\json\users.pickle,C:\Study\Python\2 semester\exam\json,file,79
+C:\Study\Python\lesson_1\task_2.py,C:\Study\Python\lesson_1,file,159
+C:\Study\Python\lesson_1\task_4.py,C:\Study\Python\lesson_1,file,358
+C:\Study\Python\lesson_1\task_6.py,C:\Study\Python\lesson_1,file,479
+C:\Study\Python\lesson_1\task_8.py,C:\Study\Python\lesson_1,file,607
+C:\Study\Python\lesson_2\task_10.py,C:\Study\Python\lesson_2,file,666
+C:\Study\Python\lesson_2\task_12.py,C:\Study\Python\lesson_2,file,477
+C:\Study\Python\lesson_2\task_14.py,C:\Study\Python\lesson_2,file,152
+C:\Study\Python\lesson_3\task_16.py,C:\Study\Python\lesson_3,file,413
+C:\Study\Python\lesson_3\task_18.py,C:\Study\Python\lesson_3,file,486
+C:\Study\Python\lesson_3\task_20.py,C:\Study\Python\lesson_3,file,976
+C:\Study\Python\lesson_4\task_22.py,C:\Study\Python\lesson_4,file,620
+C:\Study\Python\lesson_4\task_24.py,C:\Study\Python\lesson_4,file,561
+C:\Study\Python\lesson_5\task_26.py,C:\Study\Python\lesson_5,file,136
+C:\Study\Python\lesson_5\task_28.py,C:\Study\Python\lesson_5,file,129
+C:\Study\Python\lesson_7\task_34.py,C:\Study\Python\lesson_7,file,409
+C:\Study\Python\lesson_7\task_36.py,C:\Study\Python\lesson_7,file,251
+C:\Study\Python\lesson_7\examples,C:\Study\Python\lesson_7,directory,58817
+C:\Study\Python\lesson_7\examples\pseudo_names.txt,C:\Study\Python\lesson_7\examples,file,79
+C:\Study\Python\lesson_7\examples\פאיכ-fole01.odt,C:\Study\Python\lesson_7\examples,file,66
+C:\Study\Python\lesson_7\examples\פאיכ-fole02.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole03.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole04.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole05.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole06.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole07.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole08.odt,C:\Study\Python\lesson_7\examples,file,7334
+C:\Study\Python\lesson_7\examples\פאיכ-fole09.odt,C:\Study\Python\lesson_7\examples,file,7334
